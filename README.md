@@ -1,4 +1,4 @@
-## I'm Hamza 👋
+## I'm Hamza 
 
 iOS Developer 🍎 & UI/UX Designer 🖌 at the Apple Developer Academy | Registered Respiratory Therapist 🩺
 
