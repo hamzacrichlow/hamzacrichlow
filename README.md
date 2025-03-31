@@ -8,5 +8,5 @@ Projects include Pulmoro 🫁, Read With Certainty 📖 (literacy app), Lies and
 
 Passionate about intersection of healthcare and educaiton with technology | SwiftUI enthusiast | Advocate for accessible design.
 
-Currently pursuing advanced certification in SwiftUI development while actively contributing to the Swift community. Open to collaboration on health tech projects and iOS design systems.
+Currently pursuing advanced certification in SwiftUI development while actively contributing to the Swift community. Open to collaboration on app development projects and UI/UX design systems.
 
