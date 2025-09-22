@@ -1,6 +1,6 @@
 ## I'm Hamza 
 
-iOS Developer 🍎 & UI/UX Designer 🖌 at the Apple Developer Academy | Registered Respiratory Therapist 🩺
+iOS Developer 🍎 & UI/UX Designer 🖌 working as a Design Mentor at the Apple Developer Academy | Registered Respiratory Therapist 🩺
 
 Developing my personal project Pulmoro which is a clinical decision making iOS applications that bridges my clinical experience with Swift development. My work combines medical knowledge with human-centered design to create accessible health interventions.
 
