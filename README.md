@@ -6,11 +6,11 @@ Currently finishing the development of my personal project Pulmoro. Pulmoro is a
 
 I've worked on multiple tvOS and iOS applications as a developer and/or designer such as Pulmoro, Lies and Legends, The Simulator, Collectivity, and Atileir Archive. Check out my repos
 
-Passionate about the intersection of healthcare and educaiton with technology 
+- Passionate about SwiftUI
+- Creative with Adobe Suite
+- Advocate for Accessible Design
 
-SwiftUI enthusiast
-
-Advocate for accessible design
+***
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzacrichlow/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:474054b1-69c0-4b5f-b660-4deafc64e08e?viewer%21megaVerb=group-discover)
