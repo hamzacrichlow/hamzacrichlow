@@ -1,4 +1,4 @@
-## Hello I'm Hamza 
+## 👋🏿 Hello I'm Hamza 
 
 iOS Developer & UI/UX Designer working as a Design Mentor at the Apple Developer Academy ... and I'm also working as a Registered Respiratory Therapist part time.
 
