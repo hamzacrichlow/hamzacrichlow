@@ -4,7 +4,7 @@ iOS Developer & UI/UX Designer working as a Design Mentor at the Apple Developer
 
 Currently finishing the development of my personal project Pulmoro. Pulmoro is a clinical decision making iOS application I created. It earned me an invitation to Apple’s Worldwide Developers Conference after winning the Swift Student Challenge in 2025.
 
-I've worked on on tvOS and iOS applications such as Pulmoro, Lies and Legends, The Simulator, Collectivity, and Atileir Archive.
+I've worked on multiple tvOS and iOS applications ad a developer and/or designer such as Pulmoro, Lies and Legends, The Simulator, Collectivity, and Atileir Archive.
 
 Passionate about intersection of healthcare and educaiton with technology | SwiftUI enthusiast | Advocate for accessible design.
 
