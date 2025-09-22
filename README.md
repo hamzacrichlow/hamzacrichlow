@@ -11,7 +11,7 @@ Passionate about intersection of healthcare and educaiton with technology | Swif
 Currently pursuing advanced certification in SwiftUI development while actively contributing to the Swift community. Open to collaboration on app development projects and UI/UX design systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzacrichlow/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Adobe-Acrobat-Reader&logoColor=white)](https://www.linkedin.com/posts/hamzacrichlow_technical-design-portfolio-activity-7302774976644882432-s2Lj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADDU6D4BCrPm4I9XR2PhzRqziKvgffv13OI)
+[![Portfolio](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:474054b1-69c0-4b5f-b660-4deafc64e08e?viewer%21megaVerb=group-discover)
 
 CODE TOOLKIT
 
