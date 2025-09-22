@@ -1,10 +1,10 @@
-## I'm Hamza 
+## Hello I'm Hamza 
 
-iOS Developer 🍎 & UI/UX Designer 🖌 working as a Design Mentor at the Apple Developer Academy ... and I'm also working as a Registered Respiratory Therapist 🩺 part time.
+iOS Developer & UI/UX Designer working as a Design Mentor at the Apple Developer Academy ... and I'm also working as a Registered Respiratory Therapist part time.
 
 Currently finishing the development of my personal project Pulmoro. Pulmoro is a clinical decision making iOS application I created. It earned me an invitation to Apple’s Worldwide Developers Conference after winning the Swift Student Challenge in 2025.
 
-Projects include Pulmoro 🫁, Lies and Legends 🃏 an interactive social deduction iOS card game application, and Collectivity and iOS app that helps build community foundations.
+I've worked on on tvOS and iOS applications such as Pulmoro, Lies and Legends, The Simulator, Collectivity, and Atileir Archive.
 
 Passionate about intersection of healthcare and educaiton with technology | SwiftUI enthusiast | Advocate for accessible design.
 
