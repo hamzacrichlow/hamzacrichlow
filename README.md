@@ -2,11 +2,13 @@
 
 iOS Developer & UI/UX Designer working as a Design Mentor at the Apple Developer Academy ... and I'm also working as a Registered Respiratory Therapist part time.
 
-Currently finishing the development of my personal project Pulmoro. Pulmoro is a clinical decision making iOS application I created. It earned me an invitation to Apple’s Worldwide Developers Conference after winning the Swift Student Challenge in 2025.
+Currently finishing the development of my personal project Pulmoro. Pulmoro is a clinical decision making iOS application I created. It earned me an invitation to Apple’s Worldwide Developers Conference after winning the Swift Student Challenge in 2025!
 
-I've worked on multiple tvOS and iOS applications ad a developer and/or designer such as Pulmoro, Lies and Legends, The Simulator, Collectivity, and Atileir Archive.
+I've worked on multiple tvOS and iOS applications as a developer and/or designer such as Pulmoro, Lies and Legends, The Simulator, Collectivity, and Atileir Archive. Check out my repos
 
-Passionate about intersection of healthcare and educaiton with technology | SwiftUI enthusiast | Advocate for accessible design.
+Passionate about the intersection of healthcare and educaiton with technology 
+SwiftUI enthusiast
+Advocate for accessible design
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzacrichlow/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:474054b1-69c0-4b5f-b660-4deafc64e08e?viewer%21megaVerb=group-discover)
